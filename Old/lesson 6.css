@@ -1,0 +1,21 @@
+.model-text {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.order-text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+  font-style: normal;
+  text-align: center;
+  margin-top: 0;
+  font-weight: 500;
+}
+
+.dev-text {
+  text-decoration: underline;
+}
